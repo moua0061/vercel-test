@@ -15,7 +15,9 @@ function App() {
   return (
     <main>
       <h1>Welcome to Lia's site!</h1>
-      
+      <p>
+        Hello world! I'm excited to have you here. Take a good look around you =)
+      </p>
     </main>
   );
 }
